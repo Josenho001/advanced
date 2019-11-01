@@ -1,0 +1,1 @@
+Response Code: 0--Amount: 1--MpesaReceiptNumber: NJL0EJ87AC--TransactionDate: 20191021131041--PhoneNumber: 254790261608--reference: </br>
